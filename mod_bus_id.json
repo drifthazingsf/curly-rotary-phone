@@ -1,0 +1,85 @@
+{
+    "Ads": [
+        {
+            "banner_id": "ba924c1fc44d29ac",
+            "interstitial_id": "0ee55073fd46cb13",
+            "reward_id": "d64a59befe5cef9",
+            "natives_id": "8d9bec8b94279ed6",
+            "open_app_id": "fce5b3d0bbba9df0",
+            "interval_interstitial": 4,
+            "channel_id": "9285717016",
+            "status_app": "0",
+            "link_redirect": "https://"
+        }
+    ],
+    "More": [
+        {
+            "id": 1,
+            "title": "Wallpaper Paralax",
+            "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+            "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+        },
+        {
+            "id": 2,
+            "title": "Skin MCPE",
+            "image": "https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
+            "link": "https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+        },
+        {
+            "id": 3,
+            "title": "Fake Call",
+            "image": "file:///android_asset/more/fake.jpg",
+            "link": "https://aliendro.id/alien-fake-vv-call-v12-4"
+        },
+        {
+            "id": 4,
+            "title": "Keyboard",
+            "image": "file:///android_asset/more/keyboard.jpeg",
+            "link": "https://aliendro.id/alien-theme-keyboard-online-offline-104"
+        },
+        {
+            "id": 5,
+            "title": "Twibbon",
+            "image": "https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
+            "link": "https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+        },
+        {
+            "id": 6,
+            "title": "Mp3 Player",
+            "image": "https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
+            "link": "https://aliendro.id/alien-mp3-player-v22-10"
+        }
+    ],
+    "DATA": [
+        {
+            "title": "Harapan Jaya",
+            "image": "file:///android_asset/bus.jpeg",
+            "link_mods": "https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+            "link_livery": "https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+        },
+        {
+            "title": "Livery Zentrum JB2 SHD",
+            "image": "https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+            "link_mods": "https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+            "link_livery": ""
+        },
+        {
+            "title": "Bus Telolet",
+            "image": "file:///android_asset/bus3.jpeg",
+            "link_mods": "https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+            "link_livery": ""
+        },
+        {
+            "title": "Truck UD Quester Bak Muat Kayu",
+            "image": "https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+            "link_mods": "https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+            "link_livery": "https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+        },
+        {
+            "title": "Jaguar XE SV Project 8",
+            "image": "https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+            "link_mods": "https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+            "link_livery": ""
+        }
+    ]
+}
